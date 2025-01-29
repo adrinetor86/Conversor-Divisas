@@ -1,0 +1,24 @@
+p{
+    margin-top: 20px;
+    font-size: large;
+    text-align: center;
+}
+
+#clase1 {
+border-radius: 12px;
+}
+
+#clase2 {
+  border-radius: 12px;
+}
+
+#clase3 {
+  border-radius: 12px;
+}
+
+.bg-white {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

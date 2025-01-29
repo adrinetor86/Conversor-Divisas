@@ -1,0 +1,16 @@
+
+<!--Este HTML es una especie de Layout del .net
+los app-header, app-footer son los nombres/etiquetas de los componentes
+
+El router-outlet es como el @renderBody() de .net (cargara cada componente segun la ruta)-->
+
+<header>
+  <app-header></app-header>
+</header>
+
+<main><router-outlet></router-outlet></main>
+<!--if we are in login dont load the footer-->
+<footer class="bg-primaryBlue text-gray-300 py-8">
+  <app-footer></app-footer>
+</footer>
+

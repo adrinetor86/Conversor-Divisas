@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\CursosTardes\Proyectos\ClonConvertidor\WebConversorSolucion\WebConversor\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-11-26T16:27:33.7464612Z||;True|2024-11-26T17:10:48.5561669+01:00||;True|2024-11-26T17:10:21.8953084+01:00||;True|2024-11-26T17:07:54.7992953+01:00||;True|2024-11-26T17:06:17.2656111+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+.container-exchange {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
